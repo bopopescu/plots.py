@@ -7,7 +7,7 @@ import plotly.offline as ply
 mydb = mysql.connector.connect(
     host="192.254.190.238",
     user="smartsel_lina",
-    passwd="linalina",
+    passwd="*********",
     database="smartsel_chapps"
 )
 
